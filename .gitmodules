@@ -1,0 +1,12 @@
+[submodule "clone-youtube"]
+	path = clone-youtube
+	url = https://github.com/toy-project-kyungsle/clone-youtube.git
+[submodule "clone-slack"]
+	path = clone-slack
+	url = https://github.com/toy-project-kyungsle/clone-slack.git
+[submodule "recommend-movie-app"]
+	path = recommend-movie-app
+	url = https://github.com/toy-project-kyungsle/recommend-movie-app.git
+[submodule "react-boiler-plate"]
+	path = react-boiler-plate
+	url = https://github.com/toy-project-kyungsle/react-boiler-plate.git
